@@ -55,6 +55,7 @@ class Game:
         self.tiles = []
         self.winning_list = []
         self.load_default_puzzle()
+        turtle.done()
 
     def get_user(self):
         """
