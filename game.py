@@ -8,6 +8,7 @@
 """
 
 from constants import *
+import turtle
 import os
 import random
 from screen import Screen
